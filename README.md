@@ -32,34 +32,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
   <a href="https://github.com/IshankDev/handle-path-oz">
     <img width="55%" align="left" alt="Ishank's github stats" src="https://github-readme-stats.vercel.app/api?username=IshankDev&show_icons=true&hide_border=true" />
-  </a>
+ 
 </p>
 
 
-<!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-    <!--  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-    -->
-    
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<!-- <p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/IshankDev/IshankDev.svg" />
-</p>
--->
-
-<!-- This readme was created by Ishank Choudhary - https://github.com/IshankDev -->
