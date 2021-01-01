@@ -22,8 +22,13 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: ishank.pce@gmail.com;
 
 
-**Languages and Tools:** 
-*Flutter, Dart, Android, Java, Nodejs, MongoDB and Sqlite*
+**Languages:** 
+
+- Flutter
+- Dart
+- Android
+- Nodejs
+- MongoDB
       
 
 
