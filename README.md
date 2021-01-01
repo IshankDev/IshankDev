@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x250" />
+<img width="55%" align="right" alt="Github" src="https://cdn.dribbble.com/users/10549/screenshots/9916149/media/a9dbfea8e23e5b8e23db142528c3bc9f.png?compress=1&resize=300x150" />
 
 - 🌱 I’m currently learning React and Redux ; 
 - 👯 I’m looking for open source projects 🤝;
@@ -56,9 +56,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
+<!-- <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/IshankDev/IshankDev.svg" />
 </p>
-
+-->
 
 <!-- This readme was created by Ishank Choudhary - https://github.com/IshankDev -->
