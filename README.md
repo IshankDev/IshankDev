@@ -14,9 +14,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://cdn.dribbble.com/users/10549/screenshots/9916149/media/a9dbfea8e23e5b8e23db142528c3bc9f.png?compress=1&resize=300x150" />
-
 - 🌱 I’m currently learning React and Redux ; 
 - 👯 I’m looking for open source projects 🤝;
 - 🤔 I’m looking for help with MERN techno ;
