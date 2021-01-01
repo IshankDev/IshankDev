@@ -15,11 +15,11 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=500x350" />
+<img width="55%" align="right" alt="Github" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x250" />
 
 - 🌱 I’m currently learning React and Redux ; 
 - 👯 I’m looking for open source projects 🤝;
-- 🤔 I’m looking for help with MERN techno 😭;
+- 🤔 I’m looking for help with MERN techno ;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in computer engineering;
 - 📫 How to reach me: ishank.pce@gmail.com;
@@ -57,7 +57,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/IshankDev/IshankDev.svg" />
 </p>
 
 
