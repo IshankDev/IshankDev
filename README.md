@@ -17,13 +17,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning React and Redux ; 
 - 👯 I’m looking for open source projects 🤝;
 - 🤔 I’m looking for help with MERN techno ;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in computer engineering;
 - 📫 How to reach me: ishank.pce@gmail.com;
-- Checkout My Website - http://ishank.in/
+- Checkout My Twitter - https://twitter.com/IshankDev
 
 
 **Languages:** 
@@ -31,6 +30,8 @@ You can use the website to generate badges: https://shields.io/
 - Flutter
 - Dart
 - Android
+- Kotlin
+- Ktor
 - Nodejs
 - MongoDB
       
